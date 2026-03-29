@@ -12,7 +12,11 @@
 - Responsive UI  
 
 ## 📸 Screenshots
-(Add your project screenshots here)
+![Home] (Screenshot 2026-03-29 134838.png)
+![Login](Screenshot 2026-03-29 134916.png)
+![SRTC] (Screenshot 2026-03-29 134948.png)
+![About] (Screenshot 2026-03-29 135017.png)
+
 
 ## 📌 Description
 This is a full stack web application for booking bus tickets.  
